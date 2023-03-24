@@ -235,11 +235,11 @@ th {
     *,
     :after,
     :before {
-        color: #000 !important;
-        text-shadow: none !important;
-        background: 0 0 !important;
-        -webkit-box-shadow: none !important;
-        box-shadow: none !important
+        color: #000000 ;
+        text-shadow: none ;
+        background: 0 0 ;
+        -webkit-box-shadow: none ;
+        box-shadow: none ;
     }
     a,
     a:visited {
@@ -1412,7 +1412,7 @@ a {
 
 a:focus,
 a:hover {
-    color: #23527c;
+    color: #001671;
     text-decoration: underline
 }
 
@@ -1622,7 +1622,7 @@ h6 {
 }
 
 p {
-    margin: 0 0 10px
+    margin: 0 0 14px
 }
 
 .lead {
