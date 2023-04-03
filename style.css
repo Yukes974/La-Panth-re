@@ -510,6 +510,19 @@ button {
     box-shadow: none;
 }
 
+.form-control:focus {
+    color: #FFFFFF;
+    background-color: #4E4E98;
+}
+
+.form-control:invalid {
+    border: solid 2px #8E1F1F;
+}
+
+.form-control:valid {
+    border: solid 2px #4E4E98;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
