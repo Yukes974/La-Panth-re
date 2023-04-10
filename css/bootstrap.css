@@ -1412,8 +1412,8 @@ a {
 
 a:focus,
 a:hover {
-    color: #001671;
-    text-decoration: underline
+    color: #CA864B !important;
+    text-decoration: underline !important
 }
 
 a:focus {
