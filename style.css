@@ -362,6 +362,24 @@ a:hover {
     z-index: 2;
 }
 
+.partenaires {
+    margin: 2% auto 0 auto;
+    padding: 0;
+}
+
+.partenaires h6, li { 
+    text-align: center;
+}
+
+.partenaires li {
+    list-style-type: none;
+    padding-right: 3.8%;
+}
+
+.partenaires a:hover {
+    color: #FFFFFF !important;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
